@@ -55,7 +55,7 @@ def main():
     for j in [txt2,txt3,txt4,txt5]:
         st.write(j)
 
-    st.write("## Thank you for Visiting \nProject by Nikhil J")
+    st.write("## Thank you for Visiting \nProject by Suyog")
         
 
 main()
